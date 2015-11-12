@@ -10,7 +10,7 @@ Uses 2 extra spaces between words in encrypted code
 ## How to use
 ### Works with letters (case insensitive and decryption value is always lower case)
 
-```
+```ruby
 require 'morse_code.rb'
 
 str = 'the quick brown fox jumped over the lazy dog'
