@@ -34,3 +34,4 @@ decrypted = MorseCode.decrypt(encrypted)
 # => "0123456789 9876543210"
 ```
 
+by [Bideo Wego](https://github.com) as a Kata from [CodeWars](http://www.codewars.com/)
